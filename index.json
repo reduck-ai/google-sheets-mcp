@@ -1,0 +1,70 @@
+{
+	"count": 11,
+	"scripts": [
+		{
+			"path": "README.md",
+			"url": "https://reduck.ai/use-cases/google-sheets-mcp",
+			"lastmod": "2026-10-28"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_add_tab",
+			"path": "scripts/docs.google.com/sheets_add_tab.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_add_tab",
+			"lastmod": "2026-10-29"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_clear_range",
+			"path": "scripts/docs.google.com/sheets_clear_range.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_clear_range",
+			"lastmod": "2026-10-22"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_delete_tab",
+			"path": "scripts/docs.google.com/sheets_delete_tab.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_delete_tab",
+			"lastmod": "2026-10-22"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_export",
+			"path": "scripts/docs.google.com/sheets_export.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_export",
+			"lastmod": "2026-11-03"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_list_tabs",
+			"path": "scripts/docs.google.com/sheets_list_tabs.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_list_tabs",
+			"lastmod": "2026-10-23"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_new_spreadsheet",
+			"path": "scripts/docs.google.com/sheets_new_spreadsheet.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_new_spreadsheet",
+			"lastmod": "2026-10-22"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_read_tab",
+			"path": "scripts/docs.google.com/sheets_read_tab.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_read_tab",
+			"lastmod": "2026-10-22"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_rename_spreadsheet",
+			"path": "scripts/docs.google.com/sheets_rename_spreadsheet.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_rename_spreadsheet",
+			"lastmod": "2026-11-09"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_rename_tab",
+			"path": "scripts/docs.google.com/sheets_rename_tab.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_rename_tab",
+			"lastmod": "2026-11-06"
+		},
+		{
+			"address": "@reduck/docs.google.com/sheets_write_cells",
+			"path": "scripts/docs.google.com/sheets_write_cells.md",
+			"url": "https://reduck.ai/explore/scripts/reduck/docs.google.com/sheets_write_cells",
+			"lastmod": "2026-10-22"
+		}
+	]
+}
