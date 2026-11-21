@@ -3,7 +3,7 @@
 A Google Sheets MCP that works as you. Let Claude, ChatGPT or any AI agent read tabs, write cells, clear ranges and add tabs in your own Chrome, with no Cloud project or OAuth setup.
 
 - Product: Reduck MCP
-- Updated: 2026-10-28
+- Updated: 2026-11-20
 
 ![One integration, every website](https://docs.reduck.ai/overview/one-integration-every-website.png)
 
@@ -12,6 +12,8 @@ A Google Sheets MCP that works as you. Let Claude, ChatGPT or any AI agent read 
 **Get started:** [docs.reduck.ai](https://docs.reduck.ai)
 
 ## Overview
+
+Reduck lets Claude and ChatGPT read and edit your Google Sheets as you, with no Google Cloud project.
 
 Founders and sales teams keep their leads and pipelines in Google Sheets. Operations and finance people update a tracker or a report there every week. Many of them use an AI agent to find the leads or draft the report, and they want the agent to put the result in the sheet itself and keep it up to date. Without a connection to Google Sheets, the agent gives back text, and a person copies it into the sheet by hand.
 
